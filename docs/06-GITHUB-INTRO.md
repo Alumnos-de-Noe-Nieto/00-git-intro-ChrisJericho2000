@@ -273,7 +273,7 @@ Eso es TODO lo que necesitas para colaborar en GitHub.
 - [x] Puedo usar: `git clone https://github.com/usuario/proyecto.git`
 
 ### Checkpoint 3: Push y Pull
-- [x Sé que `git push` sube cambios a GitHub
+- [x]Sé que `git push` sube cambios a GitHub
 - [x] Sé que `git pull` descarga cambios de GitHub
 - [x] Entiendo que debo `pull` antes de trabajar y `push` después
 
